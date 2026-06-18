@@ -164,10 +164,3 @@ voting.exe
 
 **Submitted By:** Harshita Pandey
 
-**Batch:** 9
-
----
-
-## 📄 License
-
-This project is developed for educational and academic purposes.
