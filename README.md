@@ -160,14 +160,4 @@ voting.exe
 
 **Project Title:** E-Voting System
 
-**Submitted To:** Mr. Pankaj Badoni
-
 **Submitted By:** Harshita Pandey
-
-**Batch:** 9
-
----
-
-## 📄 License
-
-This project is developed for educational and academic purposes.
